@@ -29,7 +29,7 @@ body {
 
 /*block dividers*/
 
-block-divider {
+hr.block-divider {
     width: 75px;
     height: 15px;
     border: 0;
